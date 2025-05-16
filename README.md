@@ -8,6 +8,13 @@
 
 A library that generates an interactive radar, inspired by [thoughtworks.com/radar](http://thoughtworks.com/radar).
 
+## LET OP !!
+
+De repo is uitgebreid met een folder "content" Hierin is de file "volume1-concept.json" opgenomen.
+
+Door deze json te laden in de demo techradar krijg je een eerste visualisatie hoe onze content eruit ziet in deze opmaak:
+[tijdelijke link](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fdeveloper-overheid-nl%2Fdon-tech-radar%2Frefs%2Fheads%2Fmaster%2Fcontent%2Fvolume1-concept.json)
+
 ## Demo
 
 You can see this in action at https://radar.thoughtworks.com. If you plug in [this data](https://docs.google.com/spreadsheets/d/1GBX3-jzlGkiKpYHF9RvVtu6GxSrco5OYTBv9YsOTXVg/edit#gid=0) you'll see [this visualization](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1GBX3-jzlGkiKpYHF9RvVtu6GxSrco5OYTBv9YsOTXVg%2Fedit%23gid%3D0).
