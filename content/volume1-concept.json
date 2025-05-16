@@ -1,29 +1,30 @@
 [
   {
-    "name": "Composer",
-    "ring": "Gebruik",
-    "quadrant": "tools",
+    "name": "Public Money Public Code / Open Source",
+    "ring": “adopt”,
+    "quadrant": "techniques",
     "isNew": "TRUE",
-    "description": "Although the idea of dependency management ..."
+    "description": "hieronder verstaan we dat organisaties die code zelf bouwen of laten bouwen die code openbaar maken via een Git-platform als Gitlab of Github.”
   },
   {
-    "name": "Canary builds",
-    "ring": "Probeer",
-    "quadrant": "test",
+    "name": “Bruno”,
+    "ring": “trial”,
+    "quadrant": “tools,
     "isNew": "FALSE",
-    "description": "Many projects have external code dependencies ..."
+    "description": “een “open source alternatief voor Postman wat een open data structuur kent en herbruikbare tests configuraties heeft die makkelijk te delen zijn.”
   },
   {
-    "name": "Apache Kylin",
-    "ring": "Onderzoek",
+    "name": “ebMS3”,
+    "ring": “assess”,
     "quadrant": "platforms",
-    "description": "Apache Kylin is an open source analytics solution ..."
+    "isNew": "TRUE",
+    "description": "Frank: ik zou deze graag verminderen. Wordt inderdaad gebruikt binnen de EU. De beredenering achter waarom we dit willen: we hebben het al dus laten we het breder inzetten. Echter kent geen developer deze standaard, dus waarom? Heel veel interactie-patronen gaan naar de infra-laag van software, maar heb je dit allemaal nodig? Joost: binnen API's kan dit allemaal, alleen moeten hier nog standaarden voor komen. "
   },
   {
-    "name": "JSF",
-    "ring": "Verminder",
+    "name": “k8s”,
+    "ring": “hold”,
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "We continue to see teams run into trouble using JSF ..."
+    "description": “Spreekt voor zich als basis voor Cloud Native infra”
   }
 ]
