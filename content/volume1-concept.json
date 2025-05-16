@@ -10,7 +10,7 @@
     "name": "Bruno",
     "ring": "trial",
     "quadrant": "tools",
-    "isNew": "FALSE",
+    "isNew": "TRUE",
     "description": "een open source alternatief voor Postman wat een open data structuur kent en herbruikbare tests configuraties heeft die makkelijk te delen zijn."
   },
   {
@@ -24,7 +24,91 @@
     "name": "k8s",
     "ring": "hold",
     "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
+    "isNew": "TRUE",
     "description": "Spreekt voor zich als basis voor Cloud Native infra"
+  },
+  {
+    "name": "Open By Default",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Werk open, zet je communicatiekanalen open zodat iedereen zich kan mengen in het gesprek. Laat zien wat je aan het doen bent, waar je staat."
+  },
+  {
+    "name": "Micro-services-architectuur",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Het opsplitsen van een ecosysteem in kleine handzame API's/ repositories. Dit bevorderd de portabiliteit en de mogelijkheden om verschillende teams aan de software te laten bouwen."
+  },
+  {
+    "name": "Scrum agile",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Agile is een fijne manier van werken"
+  },
+  {
+    "name": "Event Driven Architecture",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": ""
+  },
+  {
+    "name": "Assisted Coding for Rapid Prototyping",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Het gebruiken van LLM's bij het coderen. Alle developers komen hier tegenwoordig mee in aanraking. Daarom is het raadzaam voor organisaties om hier ervaring mee op te doen, wat zijn hier de gevolgen van?"
+  },
+  {
+    "name": "Monorepos",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "IPV allemaal verschillende repos gebruik je 1 repo met verschillende programmeertalen. Tim van der Lippe heeft ervaring hiermee bij Google. Daar is ook 1 team verantwoordelijk voor 1 product. Als je bijvoorbeeld een front-end en een back-end hebt die verbonden met elkaar zijn."
+  },
+  {
+    "name": "Behaviour Driven Development",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": ""
+  },
+  {
+    "name": "Arazzo",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Een standaard om de samenhang tussen API's te duiden."
+  },
+  {
+    "name": "Model Context Protocol (MCP)",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": ""
+  },
+  {
+    "name": "Outsourcing",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Zorg ervoor dat je kritieke software niet laat bouwen door louter externen. Dit zodat kennis in de organisatie blijft."
+  },
+  {
+    "name": "SAFe Scrum",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Een bekend opschaalmodel om als grote organisatie scrum te werken. Kan een harnas worden met te veel processen waardoor teams alsnog vastgezet worden."
+  },
+  {
+    "name": "Vendor Specifieke Producten",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Voorkom dat je componenten gebruikt waarvan je maar bij 1 leverancier services kunt afnemen. Dit voorkomt vendor lock-in."
   }
 ]
