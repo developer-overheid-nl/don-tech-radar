@@ -1,30 +1,30 @@
 [
   {
     "name": "Public Money Public Code / Open Source",
-    "ring": “adopt”,
+    "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "TRUE",
-    "description": "hieronder verstaan we dat organisaties die code zelf bouwen of laten bouwen die code openbaar maken via een Git-platform als Gitlab of Github.”
+    "description": "hieronder verstaan we dat organisaties die code zelf bouwen of laten bouwen die code openbaar maken via een Git-platform als Gitlab of Github."
   },
   {
-    "name": “Bruno”,
-    "ring": “trial”,
-    "quadrant": “tools",
+    "name": "Bruno",
+    "ring": "trial",
+    "quadrant": "tools",
     "isNew": "FALSE",
-    "description": “een open source alternatief voor Postman wat een open data structuur kent en herbruikbare tests configuraties heeft die makkelijk te delen zijn.”
+    "description": "een open source alternatief voor Postman wat een open data structuur kent en herbruikbare tests configuraties heeft die makkelijk te delen zijn."
   },
   {
-    "name": “ebMS3”,
-    "ring": “assess”,
+    "name": "ebMS3",
+    "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "Frank: ik zou deze graag verminderen. Wordt inderdaad gebruikt binnen de EU. De beredenering achter waarom we dit willen: we hebben het al dus laten we het breder inzetten. Echter kent geen developer deze standaard, dus waarom? Heel veel interactie-patronen gaan naar de infra-laag van software, maar heb je dit allemaal nodig? Joost: binnen API's kan dit allemaal, alleen moeten hier nog standaarden voor komen. "
   },
   {
-    "name": “k8s”,
-    "ring": “hold”,
+    "name": "k8s",
+    "ring": "hold",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": “Spreekt voor zich als basis voor Cloud Native infra”
+    "description": "Spreekt voor zich als basis voor Cloud Native infra"
   }
 ]
