@@ -50,28 +50,28 @@
   },
   {
     "name": "Event Driven Architecture",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "techniques",
     "isNew": "TRUE",
     "description": ""
   },
   {
     "name": "Assisted Coding for Rapid Prototyping",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "Het gebruiken van LLM's bij het coderen. Alle developers komen hier tegenwoordig mee in aanraking. Daarom is het raadzaam voor organisaties om hier ervaring mee op te doen, wat zijn hier de gevolgen van?"
   },
   {
     "name": "Monorepos",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "IPV allemaal verschillende repos gebruik je 1 repo met verschillende programmeertalen. Tim van der Lippe heeft ervaring hiermee bij Google. Daar is ook 1 team verantwoordelijk voor 1 product. Als je bijvoorbeeld een front-end en een back-end hebt die verbonden met elkaar zijn."
   },
   {
     "name": "Behaviour Driven Development",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "techniques",
     "isNew": "TRUE",
     "description": ""
