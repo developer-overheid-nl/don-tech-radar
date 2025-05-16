@@ -9,9 +9,9 @@
   {
     "name": “Bruno”,
     "ring": “trial”,
-    "quadrant": “tools,
+    "quadrant": “tools",
     "isNew": "FALSE",
-    "description": “een “open source alternatief voor Postman wat een open data structuur kent en herbruikbare tests configuraties heeft die makkelijk te delen zijn.”
+    "description": “een open source alternatief voor Postman wat een open data structuur kent en herbruikbare tests configuraties heeft die makkelijk te delen zijn.”
   },
   {
     "name": “ebMS3”,
